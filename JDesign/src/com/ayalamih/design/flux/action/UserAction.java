@@ -7,5 +7,5 @@ package com.ayalamih.design.flux.action;
  * Copyright (c) 2016 __AYALAMIH__. All rights reserved.
  */
 public class UserAction extends Action {
-
+	
 }
